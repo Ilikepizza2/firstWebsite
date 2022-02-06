@@ -1,0 +1,43 @@
+body{
+    font-size: 50px;
+    /* margin-left: 40%; */
+}
+.input > p{
+    background-color: rgb(161, 159, 159);
+    margin-right: 80.5%;
+    margin-bottom: 2px;
+}
+
+
+.input > button{
+    color: green;
+    font-size: 50px;
+    padding-top: 1%;
+    padding-left: 3.98%;
+    margin-top: 10px;
+}
+.buttons > button{
+    color: green;
+    font-size: 50px;
+    padding-top: 1%;
+    padding-left: 2.74%;
+    margin-top: 10px;
+}
+.result > button{
+    margin-top: 5px;
+    font-size: 50px;
+}
+.result > p{
+    background-color: rgb(161, 159, 159);
+    margin-right: 80.5%;
+    margin-top: 10px;
+}
+.calc{
+    background-color: yellow;
+    color: black;
+}
+.clear{
+    background-color: red;
+    color: white;
+}
+
